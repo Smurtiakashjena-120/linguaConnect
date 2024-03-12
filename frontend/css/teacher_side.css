@@ -1,0 +1,13 @@
+.dashed{
+    border: 3px solid rgb(77, 76, 76);
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    transition: .1s ease-in;
+}
+
+.dashed:hover{
+    border: 4px solid rgb(77, 76, 76);
+}

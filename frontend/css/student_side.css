@@ -1,0 +1,16 @@
+.active, .carousel-item{
+    height: 60vh;
+}
+.carousel-item:nth-of-type(1){
+    background-image: url("../assets/thumbnails/wallpaperflare.com_wallpaper\ \(10\).jpg");
+}
+.carousel-item:nth-of-type(2){
+    background-image: url("../assets/thumbnails/wallpaperflare.com_wallpaper\ \(9\).jpg");
+}
+.carousel-item:nth-of-type(3){
+    background-image: url("../assets/thumbnails/wallpaperflare.com_wallpaper\ \(12\).jpg");
+}
+
+.text-large{
+    font-size: 3rem;
+}
